@@ -14,7 +14,7 @@ interface ChatRequest {
   messages: { role: string; content: string }[];
 }
 
-const API_URL = 'https://battleaway.xyz:5000';
+const API_URL = 'https://battleaway.xyz';
 
 // Mock responses for when the backend is unavailable
 const mockResponses = [
