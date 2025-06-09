@@ -9,7 +9,7 @@ langchain-ollama
 langchain-groq
 
 # Vector Store
-chromadb
+# chromadb
 
 # Web Scraping
 beautifulsoup4
