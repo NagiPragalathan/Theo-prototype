@@ -21,4 +21,4 @@ uuid
 typing
 
 # Embeddings
-nomic-embed-text  # For OllamaEmbeddings
+langchain-nomic # For OllamaEmbeddings
