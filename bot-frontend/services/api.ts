@@ -14,7 +14,7 @@ interface ChatRequest {
   messages: { role: string; content: string }[];
 }
 
-const API_URL = 'http://localhost:5000';
+const API_URL = 'http://82.25.104.52:5000';
 
 // Mock responses for when the backend is unavailable
 const mockResponses = [
