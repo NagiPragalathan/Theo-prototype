@@ -13,7 +13,7 @@ langchain-groq
 
 # Web Scraping
 beautifulsoup4
-# playwright  # Required for AsyncChromiumLoader
+playwright  # Required for AsyncChromiumLoader
 
 # Utilities
 requests
@@ -21,4 +21,4 @@ uuid
 typing
 
 # Embeddings
-# langchain-nomic # For OllamaEmbeddings
+langchain-nomic # For OllamaEmbeddings
